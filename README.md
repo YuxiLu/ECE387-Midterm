@@ -1,2 +1,7 @@
-# Midterm
-ECE387
+# Digital Temperature Sensor
+
+# Introduction
+
+# Modules used
+
+# Demo
