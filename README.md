@@ -20,7 +20,7 @@ Here is the breadboard layout.
 
 
 # Demo
-
+https://www.youtube.com/shorts/EBgE5A5qdww
 
 
 
