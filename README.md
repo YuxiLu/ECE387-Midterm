@@ -21,8 +21,6 @@ Here is the breadboard layout.
 
 # Demo
 
-https://user-images.githubusercontent.com/56925099/162600466-e7cb7a7b-06f9-47fa-aed9-e700ebd04961.mp4
-
 
 
 
