@@ -1,10 +1,9 @@
 //-----------------------------------------------------------------------------
 // Experiments with the Maxim DS18B20 temperature sensor
 //
-// Author : Bruce E. Hall <bhall66@gmail.com>
+// Copyright : Bruce E. Hall <bhall66@gmail.com>
 // Website : w8bh.net
 // Version : 1.0
-// Date : 22 Sep 2013
 // Target : ATTmega328P microcontroller
 // Language : C, using AVR studio 6
 // Size : 1340 bytes, using -O1 optimization
