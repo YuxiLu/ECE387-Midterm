@@ -1,4 +1,6 @@
 # Digital Temperature Sensor
+The DS18B20 temperature sensor is a 3-pin electronic component (like a simple transistor) from Maxim (formerly Dallas) which uses 1-wire protocol to communicate with master device (microprocessor, microcontroller ….).
+The DS18B20 sensor provides 9-bit to 12-bit Celsius temperature measurement resolution (programmable resolution).
 
 # Introduction
 
